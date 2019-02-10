@@ -1,0 +1,19 @@
+{
+  "name": "project-hexus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alee14/Project-Hexus.git"
+  },
+  "author": "Alee14",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Alee14/Project-Hexus/issues"
+  },
+  "homepage": "https://github.com/Alee14/Project-Hexus#readme"
+}
